@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1188" height="334" viewBox="0 0 1188 334">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1B22"/><stop offset="1" stop-color="#0B2B2D"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3CCFB8"/><stop offset="1" stop-color="#F2B84B"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ECF5F3" opacity="0.07"/></pattern>
+  <clipPath id="clip"><rect width="1188" height="334" rx="22"/></clipPath>
+</defs>
+<rect width="1188" height="334" rx="22" fill="url(#bg)"/>
+<rect width="1188" height="334" rx="22" fill="url(#dots)"/>
+
+<rect x="40" y="36" width="196" height="196" rx="14" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="60" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#F2B84B">01</text>
+<text x="60" y="98" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3CCFB8">Fuentes</text>
+<text x="60" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">APIs REST</text>
+<text x="60" y="159" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Airtable</text>
+<text x="60" y="184" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Notion</text>
+<text x="60" y="209" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Amazon S3</text>
+<path d="M246 126.0 L256 134.0 L246 142.0" fill="none" stroke="#3CCFB8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="268" y="36" width="196" height="196" rx="14" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="288" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#F2B84B">02</text>
+<text x="288" y="98" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3CCFB8">Orquestación</text>
+<text x="288" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Apache Airflow</text>
+<text x="288" y="159" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">n8n</text>
+<path d="M474 126.0 L484 134.0 L474 142.0" fill="none" stroke="#3CCFB8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="496" y="36" width="196" height="196" rx="14" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="516" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#F2B84B">03</text>
+<text x="516" y="98" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3CCFB8">Transformación</text>
+<text x="516" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Python</text>
+<text x="516" y="159" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Pandas</text>
+<text x="516" y="184" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">SQL</text>
+<path d="M702 126.0 L712 134.0 L702 142.0" fill="none" stroke="#3CCFB8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="724" y="36" width="196" height="196" rx="14" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="744" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#F2B84B">04</text>
+<text x="744" y="98" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3CCFB8">Almacenamiento</text>
+<text x="744" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">PostgreSQL</text>
+<text x="744" y="159" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">MySQL</text>
+<text x="744" y="184" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Esquema estrella</text>
+<text x="744" y="209" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">3NF</text>
+<path d="M930 126.0 L940 134.0 L930 142.0" fill="none" stroke="#3CCFB8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="952" y="36" width="196" height="196" rx="14" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="972" y="70" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#F2B84B">05</text>
+<text x="972" y="98" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#3CCFB8">Visualización</text>
+<text x="972" y="134" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Streamlit</text>
+<text x="972" y="159" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Metabase</text>
+<text x="972" y="184" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Power BI</text>
+<text x="972" y="209" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">Looker Studio</text>
+<rect x="40" y="254" width="1108" height="46" rx="12" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="62" y="283" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#F2B84B">infraestructura</text>
+<text x="210" y="283" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16.5" fill="#ECF5F3">AWS (EC2, S3, IAM)  ·  Docker  ·  Docker Compose  ·  Git y GitHub  ·  VS Code</text>
+</svg>

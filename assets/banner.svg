@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1B22"/><stop offset="1" stop-color="#0B2B2D"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3CCFB8"/><stop offset="1" stop-color="#F2B84B"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ECF5F3" opacity="0.07"/></pattern>
+  <clipPath id="clip"><rect width="1200" height="340" rx="22"/></clipPath>
+</defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="22" fill="url(#dots)"/>
+
+<text x="64" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#F2B84B">SELECT nombre, rol FROM perfil</text>
+<text x="61" y="160" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#ECF5F3" letter-spacing="-1">Ivifer Pita</text>
+<text x="64" y="208" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#3CCFB8">Ingeniería de datos</text>
+<text x="64" y="256" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#8EA7A5">Caracas, Venezuela · Ingeniería Informática, UCAB</text>
+<rect x="680" y="80" width="124" height="36" rx="18" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="742" y="103" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#ECF5F3">API REST</text>
+<path d="M804 98 C 834 98, 826 170, 852 170" fill="none" stroke="#24434A" stroke-width="2"/>
+<circle r="4" fill="#3CCFB8"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M804 98 C 834 98, 826 170, 852 170 L 1015 170"/></circle>
+<rect x="680" y="152" width="124" height="36" rx="18" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="742" y="175" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#ECF5F3">Amazon S3</text>
+<path d="M804 170 C 834 170, 826 170, 852 170" fill="none" stroke="#24434A" stroke-width="2"/>
+<circle r="4" fill="#3CCFB8"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" path="M804 170 C 834 170, 826 170, 852 170 L 1015 170"/></circle>
+<rect x="680" y="224" width="124" height="36" rx="18" fill="#132A31" stroke="#24434A" stroke-width="1.5"/>
+<text x="742" y="247" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#ECF5F3">Notion</text>
+<path d="M804 242 C 834 242, 826 170, 852 170" fill="none" stroke="#24434A" stroke-width="2"/>
+<circle r="4" fill="#3CCFB8"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M804 242 C 834 242, 826 170, 852 170 L 1015 170"/></circle>
+<path d="M928 170 L1015 170" stroke="#24434A" stroke-width="2"/>
+<circle cx="890" cy="170" r="38" fill="#132A31" stroke="#3CCFB8" stroke-width="2"/>
+<text x="890" y="176" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700" fill="#3CCFB8">ETL</text>
+<line x1="1050" y1="170" x2="1011" y2="102" stroke="#24434A" stroke-width="2"/>
+<line x1="1050" y1="170" x2="1089" y2="102" stroke="#24434A" stroke-width="2"/>
+<line x1="1050" y1="170" x2="1130" y2="170" stroke="#24434A" stroke-width="2"/>
+<line x1="1050" y1="170" x2="1089" y2="238" stroke="#24434A" stroke-width="2"/>
+<line x1="1050" y1="170" x2="1011" y2="238" stroke="#24434A" stroke-width="2"/>
+<circle cx="1011" cy="102" r="15" fill="#132A31" stroke="#F2B84B" stroke-width="2"/>
+<circle cx="1089" cy="102" r="15" fill="#132A31" stroke="#F2B84B" stroke-width="2"/>
+<circle cx="1130" cy="170" r="15" fill="#132A31" stroke="#F2B84B" stroke-width="2"/>
+<circle cx="1089" cy="238" r="15" fill="#132A31" stroke="#F2B84B" stroke-width="2"/>
+<circle cx="1011" cy="238" r="15" fill="#132A31" stroke="#F2B84B" stroke-width="2"/>
+<rect x="1012" y="152" width="76" height="36" rx="8" fill="#F2B84B"/>
+<text x="1050" y="175" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0D1B22">hechos</text>
+<text x="680" y="304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8EA7A5">fuentes  →  transformación  →  esquema estrella</text>
+</svg>
