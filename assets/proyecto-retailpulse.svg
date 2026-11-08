@@ -1,25 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="590" height="252" viewBox="0 0 590 252">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1B22"/><stop offset="1" stop-color="#0B2B2D"/></linearGradient>
-  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3CCFB8"/><stop offset="1" stop-color="#F2B84B"/></linearGradient>
-  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ECF5F3" opacity="0.07"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F0C24"/><stop offset="1" stop-color="#1C1445"/></linearGradient>
+  <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#F49AC8"/></linearGradient>
+  <radialGradient id="glow" cx="0.8" cy="0.2" r="0.7"><stop offset="0" stop-color="#A78BFA" stop-opacity="0.22"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+  <radialGradient id="planet" cx="0.35" cy="0.3" r="0.8"><stop offset="0" stop-color="#C4B5FD"/><stop offset="0.55" stop-color="#7C5CF0"/><stop offset="1" stop-color="#3B2A8C"/></radialGradient>
   <clipPath id="clip"><rect width="590" height="252" rx="22"/></clipPath>
 </defs>
-<rect width="590" height="252" rx="22" fill="url(#bg)"/>
-<rect width="590" height="252" rx="22" fill="url(#dots)"/>
-<rect x="0" y="0" width="590" height="5" fill="url(#bar)" clip-path="url(#clip)"/>
-<text x="30" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#F2B84B">DATA WAREHOUSE EN AWS</text>
-<text x="560" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#8EA7A5">jul 2026</text>
-<text x="30" y="86" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#ECF5F3">RetailPulse Analytics</text>
-<text x="30" y="122" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8EA7A5">Pipeline ETL de 500 000 ventas desde Amazon S3 hacia</text>
-<text x="30" y="146" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8EA7A5">PostgreSQL en EC2. Esquema estrella con 5 dimensiones</text>
-<text x="30" y="170" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#8EA7A5">y 1 tabla de hechos, todo dentro del Free Tier de AWS.</text>
-<rect x="30" y="198" width="70" height="28" rx="14" fill="none" stroke="#3CCFB8" stroke-opacity="0.55" stroke-width="1.3"/>
-<text x="65.0" y="217" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3CCFB8">Python</text>
-<rect x="108" y="198" width="70" height="28" rx="14" fill="none" stroke="#3CCFB8" stroke-opacity="0.55" stroke-width="1.3"/>
-<text x="143.0" y="217" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3CCFB8">Pandas</text>
-<rect x="186" y="198" width="100" height="28" rx="14" fill="none" stroke="#3CCFB8" stroke-opacity="0.55" stroke-width="1.3"/>
-<text x="236.0" y="217" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3CCFB8">PostgreSQL</text>
-<rect x="294" y="198" width="48" height="28" rx="14" fill="none" stroke="#3CCFB8" stroke-opacity="0.55" stroke-width="1.3"/>
-<text x="318.0" y="217" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#3CCFB8">AWS</text>
+<g clip-path="url(#clip)">
+<rect width="590" height="252" fill="url(#bg)"/>
+<rect width="590" height="252" fill="url(#glow)"/>
+<circle cx="16" cy="97" r="1" fill="#F1EEFF" opacity="0.41"/>
+<circle cx="140" cy="10" r="1.7" fill="#F1EEFF" opacity="0.21"/>
+<circle cx="526" cy="24" r="1" fill="#F1EEFF" opacity="0.18"/>
+<circle cx="62" cy="239" r="1.3" fill="#F1EEFF" opacity="0.20"/>
+<circle cx="561" cy="237" r="1" fill="#F1EEFF" opacity="0.29"/>
+<circle cx="295" cy="17" r="1.3" fill="#F1EEFF" opacity="0.16"/>
+<circle cx="573" cy="118" r="1.7" fill="#F1EEFF" opacity="0.30"/>
+<circle cx="530" cy="12" r="1" fill="#F1EEFF" opacity="0.52"/>
+<circle cx="362" cy="21" r="1" fill="#F1EEFF" opacity="0.53"/>
+<circle cx="258" cy="237" r="1.7" fill="#F1EEFF" opacity="0.38"/>
+<circle cx="157" cy="19" r="1.3" fill="#F1EEFF" opacity="0.39"/>
+<circle cx="331" cy="14" r="1" fill="#F1EEFF" opacity="0.51"/>
+<circle cx="218" cy="17" r="1.3" fill="#F1EEFF" opacity="0.40"/>
+<circle cx="287" cy="23" r="1.7" fill="#F1EEFF" opacity="0.29"/>
+<rect x="0" y="0" width="590" height="5" fill="url(#acc)"/>
+</g>
+<rect x="0.75" y="0.75" width="588.5" height="250.5" rx="21.5" fill="none" stroke="#2E2858" stroke-width="1.5"/>
+<text x="30" y="46" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#F49AC8">DATA WAREHOUSE EN AWS</text>
+<text x="560" y="46" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#A49FC4">jul 2026</text>
+<text x="30" y="86" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#F1EEFF">RetailPulse Analytics</text>
+<text x="30" y="122" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A49FC4">Pipeline ETL de 500 000 ventas desde Amazon S3 hacia</text>
+<text x="30" y="146" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A49FC4">PostgreSQL en EC2. Esquema estrella con 5 dimensiones</text>
+<text x="30" y="170" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#A49FC4">y 1 tabla de hechos, dentro del Free Tier de AWS.</text>
+<rect x="30" y="198" width="65" height="28" rx="14.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1.3"/>
+<text x="62.5" y="217.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#A78BFA">Python</text>
+<rect x="105" y="198" width="65" height="28" rx="14.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1.3"/>
+<text x="137.5" y="217.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#A78BFA">Pandas</text>
+<rect x="180" y="198" width="93" height="28" rx="14.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1.3"/>
+<text x="226.5" y="217.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#A78BFA">PostgreSQL</text>
+<rect x="283" y="198" width="45" height="28" rx="14.0" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.55" stroke-width="1.3"/>
+<text x="305.5" y="217.0" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#A78BFA">AWS</text>
 </svg>
