@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/v2/banner.svg" alt="Ivifer Pita, estudiante de Ingeniería Informática" width="100%">
+  <img src="assets/v3/banner.svg" alt="Ivifer Pita, estudiante de Ingeniería Informática" width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ivifer-pita-322527380/"><img src="https://img.shields.io/badge/LinkedIn-1C1445?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
-  <a href="mailto:iviferpita@gmail.com"><img src="https://img.shields.io/badge/Email-1C1445?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"></a>
-  <a href="https://ivifer1.github.io/"><img src="https://img.shields.io/badge/Portafolio-1C1445?style=for-the-badge&logo=githubpages&logoColor=A78BFA" alt="Portafolio"></a>
-  <a href="https://www.credly.com/users/ivifer-pita"><img src="https://img.shields.io/badge/Credly-1C1445?style=for-the-badge&logo=credly&logoColor=F49AC8" alt="Credly"></a>
+  <a href="https://www.linkedin.com/in/ivifer-pita-322527380/"><img src="https://img.shields.io/badge/LinkedIn-1B202B?style=for-the-badge&logo=linkedin&logoColor=8C9BFF" alt="LinkedIn"></a>
+  <a href="mailto:iviferpita@gmail.com"><img src="https://img.shields.io/badge/Email-1B202B?style=for-the-badge&logo=gmail&logoColor=8C9BFF" alt="Email"></a>
+  <a href="https://ivifer1.github.io/"><img src="https://img.shields.io/badge/Portafolio-1B202B?style=for-the-badge&logo=githubpages&logoColor=8C9BFF" alt="Portafolio"></a>
+  <a href="https://www.credly.com/users/ivifer-pita"><img src="https://img.shields.io/badge/Credly-1B202B?style=for-the-badge&logo=credly&logoColor=8C9BFF" alt="Credly"></a>
 </p>
 
 <br>
@@ -22,7 +22,7 @@ Cada proyecto lo documento en su repositorio, con el código y los resultados.
 ## Con qué trabajo
 
 <p align="center">
-  <img src="assets/v2/stack.svg" alt="Herramientas: datos, IA, bases de datos, nube, visualización y redes" width="100%">
+  <img src="assets/v3/stack.svg" alt="Herramientas: datos, IA, bases de datos, nube, visualización y redes" width="100%">
 </p>
 
 <br>
@@ -30,12 +30,12 @@ Cada proyecto lo documento en su repositorio, con el código y los resultados.
 ## Proyectos
 
 <p align="center">
-  <a href="https://github.com/Ivifer1/meme_classification_project"><img src="assets/v2/proyecto-memes.svg" alt="Clasificación multimodal de memes" width="49%"></a>
-  <a href="https://github.com/Ivifer1/retailpulse-dw-aws"><img src="assets/v2/proyecto-retailpulse.svg" alt="RetailPulse Analytics" width="49%"></a>
-  <a href="https://github.com/Ivifer1/unified-data-hub"><img src="assets/v2/proyecto-unified-data-hub.svg" alt="Unified Data Hub" width="49%"></a>
-  <a href="https://github.com/Ivifer1/ecommerce-data-pipeline"><img src="assets/v2/proyecto-ecommerce-pipeline.svg" alt="E-Commerce Data Pipeline" width="49%"></a>
-  <a href="https://github.com/Ivifer1/Sistema-De-Base-De-Datos-Transaccional"><img src="assets/v2/proyecto-museos-oltp.svg" alt="Sistema de gestión para museos" width="49%"></a>
-  <a href="https://github.com/Ivifer1/red-multisede-voip"><img src="assets/v2/proyecto-red-multisede.svg" alt="Red multisede con telefonía IP" width="49%"></a>
+  <a href="https://github.com/Ivifer1/meme_classification_project"><img src="assets/v3/proyecto-memes.svg" alt="Clasificación multimodal de memes" width="49%"></a>
+  <a href="https://github.com/Ivifer1/retailpulse-dw-aws"><img src="assets/v3/proyecto-retailpulse.svg" alt="RetailPulse Analytics" width="49%"></a>
+  <a href="https://github.com/Ivifer1/unified-data-hub"><img src="assets/v3/proyecto-unified-data-hub.svg" alt="Unified Data Hub" width="49%"></a>
+  <a href="https://github.com/Ivifer1/ecommerce-data-pipeline"><img src="assets/v3/proyecto-ecommerce-pipeline.svg" alt="E-Commerce Data Pipeline" width="49%"></a>
+  <a href="https://github.com/Ivifer1/Sistema-De-Base-De-Datos-Transaccional"><img src="assets/v3/proyecto-museos-oltp.svg" alt="Sistema de gestión para museos" width="49%"></a>
+  <a href="https://github.com/Ivifer1/red-multisede-voip"><img src="assets/v3/proyecto-red-multisede.svg" alt="Red multisede con telefonía IP" width="49%"></a>
 </p>
 
 <br>
