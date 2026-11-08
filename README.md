@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Ivifer Pita, estudiante de Ingeniería Informática" width="100%">
+  <img src="assets/banner.svg?v=2" alt="Ivifer Pita, estudiante de Ingeniería Informática" width="100%">
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Cada proyecto lo documento en su repositorio, con el código y los resultados.
 ## Con qué trabajo
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Herramientas: datos, IA, bases de datos, nube, visualización y redes" width="100%">
+  <img src="assets/stack.svg?v=2" alt="Herramientas: datos, IA, bases de datos, nube, visualización y redes" width="100%">
 </p>
 
 <br>
@@ -30,12 +30,12 @@ Cada proyecto lo documento en su repositorio, con el código y los resultados.
 ## Proyectos
 
 <p align="center">
-  <a href="https://github.com/Ivifer1/meme_classification_project"><img src="assets/proyecto-memes.svg" alt="Clasificación multimodal de memes" width="49%"></a>
-  <a href="https://github.com/Ivifer1/retailpulse-dw-aws"><img src="assets/proyecto-retailpulse.svg" alt="RetailPulse Analytics" width="49%"></a>
-  <a href="https://github.com/Ivifer1/unified-data-hub"><img src="assets/proyecto-unified-data-hub.svg" alt="Unified Data Hub" width="49%"></a>
-  <a href="https://github.com/Ivifer1/ecommerce-data-pipeline"><img src="assets/proyecto-ecommerce-pipeline.svg" alt="E-Commerce Data Pipeline" width="49%"></a>
-  <a href="https://github.com/Ivifer1/Sistema-De-Base-De-Datos-Transaccional"><img src="assets/proyecto-museos-oltp.svg" alt="Sistema de gestión para museos" width="49%"></a>
-  <a href="https://github.com/Ivifer1/red-multisede-voip"><img src="assets/proyecto-red-multisede.svg" alt="Red multisede con telefonía IP" width="49%"></a>
+  <a href="https://github.com/Ivifer1/meme_classification_project"><img src="assets/proyecto-memes.svg?v=2" alt="Clasificación multimodal de memes" width="49%"></a>
+  <a href="https://github.com/Ivifer1/retailpulse-dw-aws"><img src="assets/proyecto-retailpulse.svg?v=2" alt="RetailPulse Analytics" width="49%"></a>
+  <a href="https://github.com/Ivifer1/unified-data-hub"><img src="assets/proyecto-unified-data-hub.svg?v=2" alt="Unified Data Hub" width="49%"></a>
+  <a href="https://github.com/Ivifer1/ecommerce-data-pipeline"><img src="assets/proyecto-ecommerce-pipeline.svg?v=2" alt="E-Commerce Data Pipeline" width="49%"></a>
+  <a href="https://github.com/Ivifer1/Sistema-De-Base-De-Datos-Transaccional"><img src="assets/proyecto-museos-oltp.svg?v=2" alt="Sistema de gestión para museos" width="49%"></a>
+  <a href="https://github.com/Ivifer1/red-multisede-voip"><img src="assets/proyecto-red-multisede.svg?v=2" alt="Red multisede con telefonía IP" width="49%"></a>
 </p>
 
 <br>
